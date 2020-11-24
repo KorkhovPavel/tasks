@@ -1,5 +1,10 @@
 # tasks
-Реализация в учебных целях:/n
+Реализация в учебных целях:
+
+
+
+
+
 Parsing data loaded via AJAX part 1.py - парсинг данные, загруженных через AJAX
 Parsing_data_into_multiple_processes.py -парсинг в мультипроц.
 Working_with_jQuery_and_changing_User-Agent.py - парсинг с jQuery и изменением  User-Agent
